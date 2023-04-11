@@ -1,0 +1,34 @@
+
+.instagramBtn{
+
+  background: linear-gradient(135deg, #c13584, #833ab4);
+  color: #fff;
+  width: 120px;
+  height: 30px;
+}
+.youtubeBtn {
+  background-color: #ff0000;
+  color: #fff;
+  width: 120px;
+  height: 30px;
+}
+
+.githubBtn {
+  background-color: #24292e;
+  color: #fff;
+  width: 120px;
+  height: 30px;
+}
+.twitterBtn{
+  background-color: #1da1f2;
+  color: #fff;
+  width: 120px;
+  height: 30px;
+}
+
+.linkedinBtn {
+  background-color: #0077b5;
+  color: #fff;
+  width: 120px;
+  height: 30px;
+}
